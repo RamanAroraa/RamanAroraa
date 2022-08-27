@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RamanAroraa
 - 👀 I’m interested in web development and web designing.
-- 📫 How to reach me -ramanjuliyer1@gmail.com
+- 📫 You can reach me through gmail -ramanjuliyer1@gmail.com
 
 <!---
 RamanAroraa/RamanAroraa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
